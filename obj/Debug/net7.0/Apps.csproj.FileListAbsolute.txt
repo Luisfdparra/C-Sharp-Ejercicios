@@ -1,0 +1,15 @@
+C:\Users\Luis Fernando Parra\Apps\bin\Debug\net7.0\Apps.exe
+C:\Users\Luis Fernando Parra\Apps\bin\Debug\net7.0\Apps.deps.json
+C:\Users\Luis Fernando Parra\Apps\bin\Debug\net7.0\Apps.runtimeconfig.json
+C:\Users\Luis Fernando Parra\Apps\bin\Debug\net7.0\Apps.dll
+C:\Users\Luis Fernando Parra\Apps\bin\Debug\net7.0\Apps.pdb
+C:\Users\Luis Fernando Parra\Apps\obj\Debug\net7.0\Apps.csproj.AssemblyReference.cache
+C:\Users\Luis Fernando Parra\Apps\obj\Debug\net7.0\Apps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Fernando Parra\Apps\obj\Debug\net7.0\Apps.AssemblyInfoInputs.cache
+C:\Users\Luis Fernando Parra\Apps\obj\Debug\net7.0\Apps.AssemblyInfo.cs
+C:\Users\Luis Fernando Parra\Apps\obj\Debug\net7.0\Apps.csproj.CoreCompileInputs.cache
+C:\Users\Luis Fernando Parra\Apps\obj\Debug\net7.0\Apps.dll
+C:\Users\Luis Fernando Parra\Apps\obj\Debug\net7.0\refint\Apps.dll
+C:\Users\Luis Fernando Parra\Apps\obj\Debug\net7.0\Apps.pdb
+C:\Users\Luis Fernando Parra\Apps\obj\Debug\net7.0\Apps.genruntimeconfig.cache
+C:\Users\Luis Fernando Parra\Apps\obj\Debug\net7.0\ref\Apps.dll
